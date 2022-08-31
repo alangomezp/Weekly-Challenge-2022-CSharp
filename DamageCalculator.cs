@@ -16,5 +16,6 @@ public class DamageCalculator
         _effectiveness = this.CalculateEffectiveness();
     }
 
+    
     public double CalcDamage() => DamageBase * _damageRate * _effectiveness;
 }
