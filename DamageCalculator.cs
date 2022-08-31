@@ -7,7 +7,7 @@ public class DamageCalculator
     private readonly double _effectiveness;
     public string? AtkType { get; }
     public string? DfsType { get; }
-    
+
     public DamageCalculator(string? atkType, string? dfsType, int atk, int dfs)
     {
         AtkType = atkType;
