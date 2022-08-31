@@ -1,0 +1,15 @@
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\bin\Debug\net6.0\RetoNo-35.exe
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\bin\Debug\net6.0\RetoNo-35.deps.json
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\bin\Debug\net6.0\RetoNo-35.runtimeconfig.json
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\bin\Debug\net6.0\RetoNo-35.dll
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\bin\Debug\net6.0\RetoNo-35.pdb
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.csproj.AssemblyReference.cache
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.AssemblyInfoInputs.cache
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.AssemblyInfo.cs
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.csproj.CoreCompileInputs.cache
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.dll
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\refint\RetoNo-35.dll
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.pdb
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\RetoNo-35.genruntimeconfig.cache
+C:\Users\Alan Gomez\RiderProjects\RetoNo-35\RetoNo-35\obj\Debug\net6.0\ref\RetoNo-35.dll
